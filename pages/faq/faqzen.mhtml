@@ -1,0 +1,865 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://csszengarden.com/
+Subject: 
+Date: Sun, 20 Oct 2024 09:27:57 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--CLMEQX3pWwplaqmQQ9TAC9m8KPCStqIhBQgyqpVhiI----"
+
+
+------MultipartBoundary--CLMEQX3pWwplaqmQQ9TAC9m8KPCStqIhBQgyqpVhiI----
+Content-Type: text/html
+Content-ID: <frame-C896100564E0B4EECDBBC5D4C9567F4A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://csszengarden.com/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
+"Line wrap"></label></form><table><tbody><tr><td class=3D"line-number" valu=
+e=3D"1"></td><td class=3D"line-content"><span class=3D"html-doctype">&lt;!D=
+OCTYPE html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">&lt;html <span clas=
+s=3D"html-attribute-name">lang</span>=3D"<span class=3D"html-attribute-valu=
+e">en</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"3"=
+></td><td class=3D"line-content"><span class=3D"html-tag">&lt;head&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"4"></td><td class=3D"lin=
+e-content">	<span class=3D"html-tag">&lt;meta <span class=3D"html-attribute=
+-name">charset</span>=3D"<span class=3D"html-attribute-value">utf-8</span>"=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"5"></td><td cla=
+ss=3D"line-content">	<span class=3D"html-tag">&lt;title&gt;</span>CSS Zen G=
+arden: The Beauty of CSS Design<span class=3D"html-tag">&lt;/title&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"6"></td><td class=3D"lin=
+e-content"><br></td></tr><tr><td class=3D"line-number" value=3D"7"></td><td=
+ class=3D"line-content">	<span class=3D"html-tag">&lt;link <span class=3D"h=
+tml-attribute-name">rel</span>=3D"<span class=3D"html-attribute-value">styl=
+esheet</span>" <span class=3D"html-attribute-name">media</span>=3D"<span cl=
+ass=3D"html-attribute-value">screen</span>" <span class=3D"html-attribute-n=
+ame">href</span>=3D"<a class=3D"html-attribute-value html-resource-link" ta=
+rget=3D"_blank" href=3D"https://csszengarden.com/214/214.css?v=3D8may2013" =
+rel=3D"noreferrer noopener">/214/214.css?v=3D8may2013</a>"&gt;</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"8"></td><td class=3D"line-conten=
+t">	<span class=3D"html-tag">&lt;link <span class=3D"html-attribute-name">r=
+el</span>=3D"<span class=3D"html-attribute-value">alternate</span>" <span c=
+lass=3D"html-attribute-name">type</span>=3D"<span class=3D"html-attribute-v=
+alue">application/rss+xml</span>" <span class=3D"html-attribute-name">title=
+</span>=3D"<span class=3D"html-attribute-value">RSS</span>" <span class=3D"=
+html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-r=
+esource-link" target=3D"_blank" href=3D"http://www.csszengarden.com/zengard=
+en.xml" rel=3D"noreferrer noopener">http://www.csszengarden.com/zengarden.x=
+ml</a>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"9"></td>=
+<td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" valu=
+e=3D"10"></td><td class=3D"line-content">	<span class=3D"html-tag">&lt;meta=
+ <span class=3D"html-attribute-name">name</span>=3D"<span class=3D"html-att=
+ribute-value">viewport</span>" <span class=3D"html-attribute-name">content<=
+/span>=3D"<span class=3D"html-attribute-value">width=3Ddevice-width, initia=
+l-scale=3D1.0</span>"&gt;</span></td></tr><tr><td class=3D"line-number" val=
+ue=3D"11"></td><td class=3D"line-content">	<span class=3D"html-tag">&lt;met=
+a <span class=3D"html-attribute-name">name</span>=3D"<span class=3D"html-at=
+tribute-value">author</span>" <span class=3D"html-attribute-name">content</=
+span>=3D"<span class=3D"html-attribute-value">Dave Shea</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"12"></td><td class=3D"line-=
+content">	<span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-n=
+ame">name</span>=3D"<span class=3D"html-attribute-value">description</span>=
+" <span class=3D"html-attribute-name">content</span>=3D"<span class=3D"html=
+-attribute-value">A demonstration of what can be accomplished visually thro=
+ugh CSS-based design.</span>"&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"13"></td><td class=3D"line-content">	<span class=3D"html-tag"=
+>&lt;meta <span class=3D"html-attribute-name">name</span>=3D"<span class=3D=
+"html-attribute-value">robots</span>" <span class=3D"html-attribute-name">c=
+ontent</span>=3D"<span class=3D"html-attribute-value">all</span>"&gt;</span=
+></td></tr><tr><td class=3D"line-number" value=3D"14"></td><td class=3D"lin=
+e-content"><br></td></tr><tr><td class=3D"line-number" value=3D"15"></td><t=
+d class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=
+=3D"16"></td><td class=3D"line-content">	<span class=3D"html-comment">&lt;!=
+--[if lt IE 9]&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"1=
+7"></td><td class=3D"line-content"><span class=3D"html-comment">	&lt;script=
+ src=3D"script/html5shiv.js"&gt;&lt;/script&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"18"></td><td class=3D"line-content"><span class=
+=3D"html-comment">	&lt;![endif]--&gt;</span></td></tr><tr><td class=3D"line=
+-number" value=3D"19"></td><td class=3D"line-content"><span class=3D"html-t=
+ag">&lt;/head&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"20=
+"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"21"></td><td class=3D"line-content"><span class=3D"html-comment=
+">&lt;!--</span></td></tr><tr><td class=3D"line-number" value=3D"22"></td><=
+td class=3D"line-content"><span class=3D"html-comment"><br></span></td></tr=
+><tr><td class=3D"line-number" value=3D"23"></td><td class=3D"line-content"=
+><span class=3D"html-comment"><br></span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"24"></td><td class=3D"line-content"><span class=3D"html-comm=
+ent"><br></span></td></tr><tr><td class=3D"line-number" value=3D"25"></td><=
+td class=3D"line-content"><span class=3D"html-comment">	View source is a fe=
+ature, not a bug. Thanks for your curiosity and</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"26"></td><td class=3D"line-content"><span class=
+=3D"html-comment">	interest in participating!</span></td></tr><tr><td class=
+=3D"line-number" value=3D"27"></td><td class=3D"line-content"><span class=
+=3D"html-comment"><br></span></td></tr><tr><td class=3D"line-number" value=
+=3D"28"></td><td class=3D"line-content"><span class=3D"html-comment">	Here =
+are the submission guidelines for the new and improved csszengarden.com:</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"29"></td><td class=3D"=
+line-content"><span class=3D"html-comment"><br></span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"30"></td><td class=3D"line-content"><span class=
+=3D"html-comment">	- CSS3? Of course! Prefix for ALL browsers where necessa=
+ry.</span></td></tr><tr><td class=3D"line-number" value=3D"31"></td><td cla=
+ss=3D"line-content"><span class=3D"html-comment">	- go responsive; test you=
+r layout at multiple screen sizes.</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"32"></td><td class=3D"line-content"><span class=3D"html-comm=
+ent">	- your browser testing baseline: IE9+, recent Chrome/Firefox/Safari, =
+and iOS/Android</span></td></tr><tr><td class=3D"line-number" value=3D"33">=
+</td><td class=3D"line-content"><span class=3D"html-comment">	- Graceful de=
+gradation is acceptable, and in fact highly encouraged.</span></td></tr><tr=
+><td class=3D"line-number" value=3D"34"></td><td class=3D"line-content"><sp=
+an class=3D"html-comment">	- use classes for styling. Don't use ids.</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"35"></td><td class=3D"line=
+-content"><span class=3D"html-comment">	- web fonts are cool, just make sur=
+e you have a license to share the files. Hosted</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"36"></td><td class=3D"line-content"><span class=
+=3D"html-comment">	  services that are applied via the CSS file (ie. Google=
+ Fonts) will work fine, but</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"37"></td><td class=3D"line-content"><span class=3D"html-comment">	 =
+ most that require custom HTML won't. TypeKit is supported, see the readme =
+on this</span></td></tr><tr><td class=3D"line-number" value=3D"38"></td><td=
+ class=3D"line-content"><span class=3D"html-comment">	  page for usage inst=
+ructions: https://github.com/mezzoblue/csszengarden.com/</span></td></tr><t=
+r><td class=3D"line-number" value=3D"39"></td><td class=3D"line-content"><s=
+pan class=3D"html-comment"><br></span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"40"></td><td class=3D"line-content"><span class=3D"html-comment=
+">	And a few tips on building your CSS file:</span></td></tr><tr><td class=
+=3D"line-number" value=3D"41"></td><td class=3D"line-content"><span class=
+=3D"html-comment"><br></span></td></tr><tr><td class=3D"line-number" value=
+=3D"42"></td><td class=3D"line-content"><span class=3D"html-comment">	- use=
+ :first-child, :last-child and :nth-child to get at non-classed elements</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"43"></td><td class=3D"=
+line-content"><span class=3D"html-comment">	- use ::before and ::after to c=
+reate pseudo-elements for extra styling</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"44"></td><td class=3D"line-content"><span class=3D"html=
+-comment">	- use multiple background images to apply as many as you need to=
+ any element</span></td></tr><tr><td class=3D"line-number" value=3D"45"></t=
+d><td class=3D"line-content"><span class=3D"html-comment">	- use the Kellum=
+ Method for image replacement, if still needed. http://goo.gl/GXxdI</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"46"></td><td class=3D"line-=
+content"><span class=3D"html-comment">	- don't rely on the extra divs at th=
+e bottom. Use ::before and ::after instead.</span></td></tr><tr><td class=
+=3D"line-number" value=3D"47"></td><td class=3D"line-content"><span class=
+=3D"html-comment"><br></span></td></tr><tr><td class=3D"line-number" value=
+=3D"48"></td><td class=3D"line-content"><span class=3D"html-comment">		</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"49"></td><td class=3D"l=
+ine-content"><span class=3D"html-comment">--&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"50"></td><td class=3D"line-content"><br></td><=
+/tr><tr><td class=3D"line-number" value=3D"51"></td><td class=3D"line-conte=
+nt"><span class=3D"html-tag">&lt;body <span class=3D"html-attribute-name">i=
+d</span>=3D"<span class=3D"html-attribute-value">css-zen-garden</span>"&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"52"></td><td class=
+=3D"line-content"><span class=3D"html-tag">&lt;div <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">page-wrapp=
+er</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"53"><=
+/td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number" =
+value=3D"54"></td><td class=3D"line-content">	<span class=3D"html-tag">&lt;=
+section <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"=
+html-attribute-value">intro</span>" <span class=3D"html-attribute-name">id<=
+/span>=3D"<span class=3D"html-attribute-value">zen-intro</span>"&gt;</span>=
+</td></tr><tr><td class=3D"line-number" value=3D"55"></td><td class=3D"line=
+-content">		<span class=3D"html-tag">&lt;header <span class=3D"html-attribu=
+te-name">role</span>=3D"<span class=3D"html-attribute-value">banner</span>"=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"56"></td><td cl=
+ass=3D"line-content">			<span class=3D"html-tag">&lt;h1&gt;</span>CSS Zen G=
+arden<span class=3D"html-tag">&lt;/h1&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"57"></td><td class=3D"line-content">			<span class=3D=
+"html-tag">&lt;h2&gt;</span>The Beauty of <span class=3D"html-tag">&lt;abbr=
+ <span class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-at=
+tribute-value">Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"h=
+tml-tag">&lt;/abbr&gt;</span> Design<span class=3D"html-tag">&lt;/h2&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"58"></td><td class=3D"=
+line-content">		<span class=3D"html-tag">&lt;/header&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"59"></td><td class=3D"line-content"><b=
+r></td></tr><tr><td class=3D"line-number" value=3D"60"></td><td class=3D"li=
+ne-content">		<span class=3D"html-tag">&lt;div <span class=3D"html-attribut=
+e-name">class</span>=3D"<span class=3D"html-attribute-value">summary</span>=
+" <span class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attr=
+ibute-value">zen-summary</span>" <span class=3D"html-attribute-name">role</=
+span>=3D"<span class=3D"html-attribute-value">article</span>"&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"61"></td><td class=3D"line-co=
+ntent">			<span class=3D"html-tag">&lt;p&gt;</span>A demonstration of what =
+can be accomplished through <span class=3D"html-tag">&lt;abbr <span class=
+=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-valu=
+e">Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&lt=
+;/abbr&gt;</span>-based design. Select any style sheet from the list to loa=
+d it into this page.<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"62"></td><td class=3D"line-content">			=
+<span class=3D"html-tag">&lt;p&gt;</span>Download the example <span class=
+=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a c=
+lass=3D"html-attribute-value html-external-link" target=3D"_blank" href=3D"=
+https://csszengarden.com/examples/index" rel=3D"noreferrer noopener">/examp=
+les/index</a>" <span class=3D"html-attribute-name">title</span>=3D"<span cl=
+ass=3D"html-attribute-value">This page's source HTML code, not to be modifi=
+ed.</span>"&gt;</span>html file<span class=3D"html-tag">&lt;/a&gt;</span> a=
+nd <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href<=
+/span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_b=
+lank" href=3D"https://csszengarden.com/examples/style.css" rel=3D"noreferre=
+r noopener">/examples/style.css</a>" <span class=3D"html-attribute-name">ti=
+tle</span>=3D"<span class=3D"html-attribute-value">This page's sample CSS, =
+the file you may modify.</span>"&gt;</span>css file<span class=3D"html-tag"=
+>&lt;/a&gt;</span><span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"63"></td><td class=3D"line-content">		<sp=
+an class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"64"></td><td class=3D"line-content"><br></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"65"></td><td class=3D"line-content">		<span cl=
+ass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">preamble</span>" <span class=3D"ht=
+ml-attribute-name">id</span>=3D"<span class=3D"html-attribute-value">zen-pr=
+eamble</span>" <span class=3D"html-attribute-name">role</span>=3D"<span cla=
+ss=3D"html-attribute-value">article</span>"&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"66"></td><td class=3D"line-content">			<span cl=
+ass=3D"html-tag">&lt;h3&gt;</span>The Road to Enlightenment<span class=3D"h=
+tml-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"67"></td><td class=3D"line-content">			<span class=3D"html-tag">&lt;p&gt;<=
+/span>Littering a dark and dreary road lay the past relics of browser-speci=
+fic tags, incompatible <span class=3D"html-tag">&lt;abbr <span class=3D"htm=
+l-attribute-name">title</span>=3D"<span class=3D"html-attribute-value">Docu=
+ment Object Model</span>"&gt;</span>DOM<span class=3D"html-tag">&lt;/abbr&g=
+t;</span>s, broken <span class=3D"html-tag">&lt;abbr <span class=3D"html-at=
+tribute-name">title</span>=3D"<span class=3D"html-attribute-value">Cascadin=
+g Style Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&lt;/abbr&gt;<=
+/span> support, and abandoned browsers.<span class=3D"html-tag">&lt;/p&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"68"></td><td class=
+=3D"line-content">			<span class=3D"html-tag">&lt;p&gt;</span>We must clear=
+ the mind of the past. Web enlightenment has been achieved thanks to the ti=
+reless efforts of folk like the <span class=3D"html-tag">&lt;abbr <span cla=
+ss=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-va=
+lue">World Wide Web Consortium</span>"&gt;</span>W3C<span class=3D"html-tag=
+">&lt;/abbr&gt;</span>, <span class=3D"html-tag">&lt;abbr <span class=3D"ht=
+ml-attribute-name">title</span>=3D"<span class=3D"html-attribute-value">Web=
+ Standards Project</span>"&gt;</span>WaSP<span class=3D"html-tag">&lt;/abbr=
+&gt;</span>, and the major browser creators.<span class=3D"html-tag">&lt;/p=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"69"></td><td cl=
+ass=3D"line-content">			<span class=3D"html-tag">&lt;p&gt;</span>The CSS Ze=
+n Garden invites you to relax and meditate on the important lessons of the =
+masters. Begin to see with clarity. Learn to use the time-honored technique=
+s in new and invigorating fashion. Become one with the web.<span class=3D"h=
+tml-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"=
+70"></td><td class=3D"line-content">		<span class=3D"html-tag">&lt;/div&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"71"></td><td class=
+=3D"line-content">	<span class=3D"html-tag">&lt;/section&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"72"></td><td class=3D"line-content=
+"><br></td></tr><tr><td class=3D"line-number" value=3D"73"></td><td class=
+=3D"line-content">	<span class=3D"html-tag">&lt;div <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">main supp=
+orting</span>" <span class=3D"html-attribute-name">id</span>=3D"<span class=
+=3D"html-attribute-value">zen-supporting</span>" <span class=3D"html-attrib=
+ute-name">role</span>=3D"<span class=3D"html-attribute-value">main</span>"&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"74"></td><td cla=
+ss=3D"line-content">		<span class=3D"html-tag">&lt;div <span class=3D"html-=
+attribute-name">class</span>=3D"<span class=3D"html-attribute-value">explan=
+ation</span>" <span class=3D"html-attribute-name">id</span>=3D"<span class=
+=3D"html-attribute-value">zen-explanation</span>" <span class=3D"html-attri=
+bute-name">role</span>=3D"<span class=3D"html-attribute-value">article</spa=
+n>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"75"></td><td=
+ class=3D"line-content">			<span class=3D"html-tag">&lt;h3&gt;</span>So Wha=
+t is This About?<span class=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"76"></td><td class=3D"line-content">			<sp=
+an class=3D"html-tag">&lt;p&gt;</span>There is a continuing need to show th=
+e power of <span class=3D"html-tag">&lt;abbr <span class=3D"html-attribute-=
+name">title</span>=3D"<span class=3D"html-attribute-value">Cascading Style =
+Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&lt;/abbr&gt;</span>. =
+The Zen Garden aims to excite, inspire, and encourage participation. To beg=
+in, view some of the existing designs in the list. Clicking on any one will=
+ load the style sheet into this very page. The <span class=3D"html-tag">&lt=
+;abbr <span class=3D"html-attribute-name">title</span>=3D"<span class=3D"ht=
+ml-attribute-value">HyperText Markup Language</span>"&gt;</span>HTML<span c=
+lass=3D"html-tag">&lt;/abbr&gt;</span> remains the same, the only thing tha=
+t has changed is the external <span class=3D"html-tag">&lt;abbr <span class=
+=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-valu=
+e">Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&lt=
+;/abbr&gt;</span> file. Yes, really.<span class=3D"html-tag">&lt;/p&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"77"></td><td class=3D"l=
+ine-content">			<span class=3D"html-tag">&lt;p&gt;</span><span class=3D"htm=
+l-tag">&lt;abbr <span class=3D"html-attribute-name">title</span>=3D"<span c=
+lass=3D"html-attribute-value">Cascading Style Sheets</span>"&gt;</span>CSS<=
+span class=3D"html-tag">&lt;/abbr&gt;</span> allows complete and total cont=
+rol over the style of a hypertext document. The only way this can be illust=
+rated in a way that gets people excited is by demonstrating what it can tru=
+ly be, once the reins are placed in the hands of those able to create beaut=
+y from structure. Designers and coders alike have contributed to the beauty=
+ of the web; we can always push it further.<span class=3D"html-tag">&lt;/p&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"78"></td><td cla=
+ss=3D"line-content">		<span class=3D"html-tag">&lt;/div&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"79"></td><td class=3D"line-content"=
+><br></td></tr><tr><td class=3D"line-number" value=3D"80"></td><td class=3D=
+"line-content">		<span class=3D"html-tag">&lt;div <span class=3D"html-attri=
+bute-name">class</span>=3D"<span class=3D"html-attribute-value">participati=
+on</span>" <span class=3D"html-attribute-name">id</span>=3D"<span class=3D"=
+html-attribute-value">zen-participation</span>" <span class=3D"html-attribu=
+te-name">role</span>=3D"<span class=3D"html-attribute-value">article</span>=
+"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"81"></td><td c=
+lass=3D"line-content">			<span class=3D"html-tag">&lt;h3&gt;</span>Particip=
+ation<span class=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"82"></td><td class=3D"line-content">			<span class=3D=
+"html-tag">&lt;p&gt;</span>Strong visual design has always been our focus. =
+You are modifying this page, so strong <span class=3D"html-tag">&lt;abbr <s=
+pan class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attri=
+bute-value">Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"html=
+-tag">&lt;/abbr&gt;</span> skills are necessary too, but the example files =
+are commented well enough that even <span class=3D"html-tag">&lt;abbr <span=
+ class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribut=
+e-value">Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"html-ta=
+g">&lt;/abbr&gt;</span> novices can use them as starting points. Please see=
+ the <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">hre=
+f</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"=
+_blank" href=3D"https://csszengarden.com/pages/resources/" rel=3D"noreferre=
+r noopener">/pages/resources/</a>" <span class=3D"html-attribute-name">titl=
+e</span>=3D"<span class=3D"html-attribute-value">A listing of CSS-related r=
+esources</span>"&gt;</span><span class=3D"html-tag">&lt;abbr <span class=3D=
+"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-value">=
+Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&lt;/a=
+bbr&gt;</span> Resource Guide<span class=3D"html-tag">&lt;/a&gt;</span> for=
+ advanced tutorials and tips on working with <span class=3D"html-tag">&lt;a=
+bbr <span class=3D"html-attribute-name">title</span>=3D"<span class=3D"html=
+-attribute-value">Cascading Style Sheets</span>"&gt;</span>CSS<span class=
+=3D"html-tag">&lt;/abbr&gt;</span>.<span class=3D"html-tag">&lt;/p&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"83"></td><td class=3D"li=
+ne-content">			<span class=3D"html-tag">&lt;p&gt;</span>You may modify the =
+style sheet in any way you wish, but not the <span class=3D"html-tag">&lt;a=
+bbr <span class=3D"html-attribute-name">title</span>=3D"<span class=3D"html=
+-attribute-value">HyperText Markup Language</span>"&gt;</span>HTML<span cla=
+ss=3D"html-tag">&lt;/abbr&gt;</span>. This may seem daunting at first if yo=
+u&amp;#8217;ve never worked this way before, but follow the listed links to=
+ learn more, and use the sample files as a guide.<span class=3D"html-tag">&=
+lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"84"></td><=
+td class=3D"line-content">			<span class=3D"html-tag">&lt;p&gt;</span>Downl=
+oad the sample <span class=3D"html-tag">&lt;a <span class=3D"html-attribute=
+-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link" =
+target=3D"_blank" href=3D"https://csszengarden.com/examples/index" rel=3D"n=
+oreferrer noopener">/examples/index</a>" <span class=3D"html-attribute-name=
+">title</span>=3D"<span class=3D"html-attribute-value">This page's source H=
+TML code, not to be modified.</span>"&gt;</span>HTML<span class=3D"html-tag=
+">&lt;/a&gt;</span> and <span class=3D"html-tag">&lt;a <span class=3D"html-=
+attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-extern=
+al-link" target=3D"_blank" href=3D"https://csszengarden.com/examples/style.=
+css" rel=3D"noreferrer noopener">/examples/style.css</a>" <span class=3D"ht=
+ml-attribute-name">title</span>=3D"<span class=3D"html-attribute-value">Thi=
+s page's sample CSS, the file you may modify.</span>"&gt;</span>CSS<span cl=
+ass=3D"html-tag">&lt;/a&gt;</span> to work on a copy locally. Once you have=
+ completed your masterpiece (and please, don&amp;#8217;t submit half-finish=
+ed work) upload your <span class=3D"html-tag">&lt;abbr <span class=3D"html-=
+attribute-name">title</span>=3D"<span class=3D"html-attribute-value">Cascad=
+ing Style Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&lt;/abbr&gt=
+;</span> file to a web server under your control. <span class=3D"html-tag">=
+&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-a=
+ttribute-value html-external-link" target=3D"_blank" href=3D"https://csszen=
+garden.com/pages/submit/" rel=3D"noreferrer noopener">/pages/submit/</a>" <=
+span class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attr=
+ibute-value">Use the contact form to send us your CSS file</span>"&gt;</spa=
+n>Send us a link<span class=3D"html-tag">&lt;/a&gt;</span> to an archive of=
+ that file and all associated assets, and if we choose to use it we will do=
+wnload it and place it on our server.<span class=3D"html-tag">&lt;/p&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"85"></td><td class=3D"=
+line-content">		<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"86"></td><td class=3D"line-content"><br><=
+/td></tr><tr><td class=3D"line-number" value=3D"87"></td><td class=3D"line-=
+content">		<span class=3D"html-tag">&lt;div <span class=3D"html-attribute-n=
+ame">class</span>=3D"<span class=3D"html-attribute-value">benefits</span>" =
+<span class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attrib=
+ute-value">zen-benefits</span>" <span class=3D"html-attribute-name">role</s=
+pan>=3D"<span class=3D"html-attribute-value">article</span>"&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"88"></td><td class=3D"line-con=
+tent">			<span class=3D"html-tag">&lt;h3&gt;</span>Benefits<span class=3D"h=
+tml-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"89"></td><td class=3D"line-content">			<span class=3D"html-tag">&lt;p&gt;<=
+/span>Why participate? For recognition, inspiration, and a resource we can =
+all refer to showing people how amazing <span class=3D"html-tag">&lt;abbr <=
+span class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attr=
+ibute-value">Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"htm=
+l-tag">&lt;/abbr&gt;</span> really can be. This site serves as equal parts =
+inspiration for those working on the web today, learning tool for those who=
+ will be tomorrow, and gallery of future techniques we can all look forward=
+ to.<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"li=
+ne-number" value=3D"90"></td><td class=3D"line-content">		<span class=3D"ht=
+ml-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"91"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"92"></td><td class=3D"line-content">		<span class=3D"html-ta=
+g">&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">requirements</span>" <span class=3D"html-attribut=
+e-name">id</span>=3D"<span class=3D"html-attribute-value">zen-requirements<=
+/span>" <span class=3D"html-attribute-name">role</span>=3D"<span class=3D"h=
+tml-attribute-value">article</span>"&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"93"></td><td class=3D"line-content">			<span class=3D"=
+html-tag">&lt;h3&gt;</span>Requirements<span class=3D"html-tag">&lt;/h3&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"94"></td><td class=
+=3D"line-content">			<span class=3D"html-tag">&lt;p&gt;</span>Where possibl=
+e, we would like to see mostly <span class=3D"html-tag">&lt;abbr <span clas=
+s=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-val=
+ue">Cascading Style Sheets, levels 1 and 2</span>"&gt;</span>CSS 1 &amp;amp=
+; 2<span class=3D"html-tag">&lt;/abbr&gt;</span> usage. <span class=3D"html=
+-tag">&lt;abbr <span class=3D"html-attribute-name">title</span>=3D"<span cl=
+ass=3D"html-attribute-value">Cascading Style Sheets, levels 3 and 4</span>"=
+&gt;</span>CSS 3 &amp;amp; 4<span class=3D"html-tag">&lt;/abbr&gt;</span> s=
+hould be limited to widely-supported elements only, or strong fallbacks sho=
+uld be provided. The CSS Zen Garden is about functional, practical <span cl=
+ass=3D"html-tag">&lt;abbr <span class=3D"html-attribute-name">title</span>=
+=3D"<span class=3D"html-attribute-value">Cascading Style Sheets</span>"&gt;=
+</span>CSS<span class=3D"html-tag">&lt;/abbr&gt;</span> and not the latest =
+bleeding-edge tricks viewable by 2% of the browsing public. The only real r=
+equirement we have is that your <span class=3D"html-tag">&lt;abbr <span cla=
+ss=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-va=
+lue">Cascading Style Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&=
+lt;/abbr&gt;</span> validates.<span class=3D"html-tag">&lt;/p&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"95"></td><td class=3D"line-co=
+ntent">			<span class=3D"html-tag">&lt;p&gt;</span>Luckily, designing this =
+way shows how well various browsers have implemented <span class=3D"html-ta=
+g">&lt;abbr <span class=3D"html-attribute-name">title</span>=3D"<span class=
+=3D"html-attribute-value">Cascading Style Sheets</span>"&gt;</span>CSS<span=
+ class=3D"html-tag">&lt;/abbr&gt;</span> by now. When sticking to the guide=
+lines you should see fairly consistent results across most modern browsers.=
+ Due to the sheer number of user agents on the web these days &amp;#8212; e=
+specially when you factor in mobile &amp;#8212; pixel-perfect layouts may n=
+ot be possible across every platform. That&amp;#8217;s okay, but do test in=
+ as many as you can. Your design should work in at least IE9+ and the lates=
+t Chrome, Firefox, iOS and Android browsers (run by over 90% of the populat=
+ion).<span class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"96"></td><td class=3D"line-content">			<span class=3D"=
+html-tag">&lt;p&gt;</span>We ask that you submit original artwork. Please r=
+espect copyright laws. Please keep objectionable material to a minimum, and=
+ try to incorporate unique and interesting visual themes to your work. We&a=
+mp;#8217;re well past the point of needing another garden-related design.<s=
+pan class=3D"html-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"97"></td><td class=3D"line-content">			<span class=3D"html-ta=
+g">&lt;p&gt;</span>This is a learning exercise as well as a demonstration. =
+You retain full copyright on your graphics (with limited exceptions, see <s=
+pan class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href</span=
+>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_blank"=
+ href=3D"https://csszengarden.com/pages/submit/guidelines/" rel=3D"noreferr=
+er noopener">/pages/submit/guidelines/</a>"&gt;</span>submission guidelines=
+<span class=3D"html-tag">&lt;/a&gt;</span>), but we ask you release your <s=
+pan class=3D"html-tag">&lt;abbr <span class=3D"html-attribute-name">title</=
+span>=3D"<span class=3D"html-attribute-value">Cascading Style Sheets</span>=
+"&gt;</span>CSS<span class=3D"html-tag">&lt;/abbr&gt;</span> under a Creati=
+ve Commons license identical to the <span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"http://creativecommons.org/l=
+icenses/by-nc-sa/3.0/" rel=3D"noreferrer noopener">http://creativecommons.o=
+rg/licenses/by-nc-sa/3.0/</a>" <span class=3D"html-attribute-name">title</s=
+pan>=3D"<span class=3D"html-attribute-value">View the Zen Garden's license =
+information.</span>"&gt;</span>one on this site<span class=3D"html-tag">&lt=
+;/a&gt;</span> so that others may learn from your work.<span class=3D"html-=
+tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"98">=
+</td><td class=3D"line-content">			<span class=3D"html-tag">&lt;p <span cla=
+ss=3D"html-attribute-name">role</span>=3D"<span class=3D"html-attribute-val=
+ue">contentinfo</span>"&gt;</span>By <span class=3D"html-tag">&lt;a <span c=
+lass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-valu=
+e html-external-link" target=3D"_blank" href=3D"http://www.mezzoblue.com/" =
+rel=3D"noreferrer noopener">http://www.mezzoblue.com/</a>"&gt;</span>Dave S=
+hea<span class=3D"html-tag">&lt;/a&gt;</span>. Bandwidth graciously donated=
+ by <span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href=
+</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_=
+blank" href=3D"http://www.mediatemple.net/" rel=3D"noreferrer noopener">htt=
+p://www.mediatemple.net/</a>"&gt;</span>mediatemple<span class=3D"html-tag"=
+>&lt;/a&gt;</span>. Now available: <span class=3D"html-tag">&lt;a <span cla=
+ss=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value =
+html-external-link" target=3D"_blank" href=3D"http://www.amazon.com/exec/ob=
+idos/ASIN/0321303474/mezzoblue-20/" rel=3D"noreferrer noopener">http://www.=
+amazon.com/exec/obidos/ASIN/0321303474/mezzoblue-20/</a>"&gt;</span>Zen Gar=
+den, the book<span class=3D"html-tag">&lt;/a&gt;</span>.<span class=3D"html=
+-tag">&lt;/p&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"99"=
+></td><td class=3D"line-content">		<span class=3D"html-tag">&lt;/div&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"100"></td><td class=3D=
+"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"101"></=
+td><td class=3D"line-content">		<span class=3D"html-tag">&lt;footer&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"102"></td><td class=3D"=
+line-content">			<span class=3D"html-tag">&lt;a <span class=3D"html-attribu=
+te-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link=
+" target=3D"_blank" href=3D"http://validator.w3.org/check/referer" rel=3D"n=
+oreferrer noopener">http://validator.w3.org/check/referer</a>" <span class=
+=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-valu=
+e">Check the validity of this site&amp;#8217;s HTML</span>" <span class=3D"=
+html-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">z=
+en-validate-html</span>"&gt;</span>HTML<span class=3D"html-tag">&lt;/a&gt;<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"103"></td><td class=
+=3D"line-content">			<span class=3D"html-tag">&lt;a <span class=3D"html-att=
+ribute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-=
+link" target=3D"_blank" href=3D"http://jigsaw.w3.org/css-validator/check/re=
+ferer" rel=3D"noreferrer noopener">http://jigsaw.w3.org/css-validator/check=
+/referer</a>" <span class=3D"html-attribute-name">title</span>=3D"<span cla=
+ss=3D"html-attribute-value">Check the validity of this site&amp;#8217;s CSS=
+</span>" <span class=3D"html-attribute-name">class</span>=3D"<span class=3D=
+"html-attribute-value">zen-validate-css</span>"&gt;</span>CSS<span class=3D=
+"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"104"></td><td class=3D"line-content">			<span class=3D"html-tag">&lt;a =
+<span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribu=
+te-value html-external-link" target=3D"_blank" href=3D"http://creativecommo=
+ns.org/licenses/by-nc-sa/3.0/" rel=3D"noreferrer noopener">http://creativec=
+ommons.org/licenses/by-nc-sa/3.0/</a>" <span class=3D"html-attribute-name">=
+title</span>=3D"<span class=3D"html-attribute-value">View the Creative Comm=
+ons license of this site: Attribution-NonCommercial-ShareAlike.</span>" <sp=
+an class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attrib=
+ute-value">zen-license</span>"&gt;</span>CC<span class=3D"html-tag">&lt;/a&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"105"></td><td cl=
+ass=3D"line-content">			<span class=3D"html-tag">&lt;a <span class=3D"html-=
+attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-extern=
+al-link" target=3D"_blank" href=3D"http://mezzoblue.com/zengarden/faq/#aaa"=
+ rel=3D"noreferrer noopener">http://mezzoblue.com/zengarden/faq/#aaa</a>" <=
+span class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attr=
+ibute-value">Read about the accessibility of this site</span>" <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">zen-accessibility</span>"&gt;</span>A11y<span class=3D"html-tag">&lt;/a&=
+gt;</span></td></tr><tr><td class=3D"line-number" value=3D"106"></td><td cl=
+ass=3D"line-content">			<span class=3D"html-tag">&lt;a <span class=3D"html-=
+attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-extern=
+al-link" target=3D"_blank" href=3D"https://github.com/mezzoblue/csszengarde=
+n.com" rel=3D"noreferrer noopener">https://github.com/mezzoblue/csszengarde=
+n.com</a>" <span class=3D"html-attribute-name">title</span>=3D"<span class=
+=3D"html-attribute-value">Fork this site on Github</span>" <span class=3D"h=
+tml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">ze=
+n-github</span>"&gt;</span>GH<span class=3D"html-tag">&lt;/a&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"107"></td><td class=3D"line-co=
+ntent">		<span class=3D"html-tag">&lt;/footer&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"108"></td><td class=3D"line-content"><br></td=
+></tr><tr><td class=3D"line-number" value=3D"109"></td><td class=3D"line-co=
+ntent">	<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"110"></td><td class=3D"line-content"><br></td></t=
+r><tr><td class=3D"line-number" value=3D"111"></td><td class=3D"line-conten=
+t"><br></td></tr><tr><td class=3D"line-number" value=3D"112"></td><td class=
+=3D"line-content">	<span class=3D"html-tag">&lt;aside <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">sidebar=
+</span>" <span class=3D"html-attribute-name">role</span>=3D"<span class=3D"=
+html-attribute-value">complementary</span>"&gt;</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"113"></td><td class=3D"line-content">		<span cl=
+ass=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">wrapper</span>"&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"114"></td><td class=3D"line-conten=
+t"><br></td></tr><tr><td class=3D"line-number" value=3D"115"></td><td class=
+=3D"line-content">			<span class=3D"html-tag">&lt;div <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">design-=
+selection</span>" <span class=3D"html-attribute-name">id</span>=3D"<span cl=
+ass=3D"html-attribute-value">design-selection</span>"&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"116"></td><td class=3D"line-content">=
+				<span class=3D"html-tag">&lt;h3 <span class=3D"html-attribute-name">cla=
+ss</span>=3D"<span class=3D"html-attribute-value">select</span>"&gt;</span>=
+Select a Design:<span class=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"117"></td><td class=3D"line-content">				<=
+span class=3D"html-tag">&lt;nav <span class=3D"html-attribute-name">role</s=
+pan>=3D"<span class=3D"html-attribute-value">navigation</span>"&gt;</span><=
+/td></tr><tr><td class=3D"line-number" value=3D"118"></td><td class=3D"line=
+-content">					<span class=3D"html-tag">&lt;ul&gt;</span></td></tr><tr><td =
+class=3D"line-number" value=3D"119"></td><td class=3D"line-content">					<s=
+pan class=3D"html-tag">&lt;li&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"120"></td><td class=3D"line-content">						<span class=3D"htm=
+l-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D=
+"html-attribute-value html-external-link" target=3D"_blank" href=3D"https:/=
+/csszengarden.com/221/" rel=3D"noreferrer noopener">/221/</a>" <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">design-name</span>"&gt;</span>Mid Century Modern<span class=3D"html-tag"=
+>&lt;/a&gt;</span> by						<span class=3D"html-tag">&lt;a <span class=3D"ht=
+ml-attribute-name">href</span>=3D"<a class=3D"html-attribute-value html-ext=
+ernal-link" target=3D"_blank" href=3D"http://andrewlohman.com/" rel=3D"nore=
+ferrer noopener">http://andrewlohman.com/</a>" <span class=3D"html-attribut=
+e-name">class</span>=3D"<span class=3D"html-attribute-value">designer-name<=
+/span>"&gt;</span>Andrew Lohman<span class=3D"html-tag">&lt;/a&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"121"></td><td class=3D"line-=
+content">					<span class=3D"html-tag">&lt;/li&gt;</span>					<span class=
+=3D"html-tag">&lt;li&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"122"></td><td class=3D"line-content">						<span class=3D"html-tag">&l=
+t;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-att=
+ribute-value html-external-link" target=3D"_blank" href=3D"https://csszenga=
+rden.com/220/" rel=3D"noreferrer noopener">/220/</a>" <span class=3D"html-a=
+ttribute-name">class</span>=3D"<span class=3D"html-attribute-value">design-=
+name</span>"&gt;</span>Garments<span class=3D"html-tag">&lt;/a&gt;</span> b=
+y						<span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">h=
+ref</span>=3D"<a class=3D"html-attribute-value html-external-link" target=
+=3D"_blank" href=3D"http://danielmall.com/" rel=3D"noreferrer noopener">htt=
+p://danielmall.com/</a>" <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">designer-name</span>"&gt;</span>Da=
+n Mall<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"123"></td><td class=3D"line-content">					<span class=
+=3D"html-tag">&lt;/li&gt;</span>					<span class=3D"html-tag">&lt;li&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"124"></td><td class=3D=
+"line-content">						<span class=3D"html-tag">&lt;a <span class=3D"html-att=
+ribute-name">href</span>=3D"<a class=3D"html-attribute-value html-external-=
+link" target=3D"_blank" href=3D"https://csszengarden.com/219/" rel=3D"noref=
+errer noopener">/219/</a>" <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">design-name</span>"&gt;</span>Stee=
+l<span class=3D"html-tag">&lt;/a&gt;</span> by						<span class=3D"html-tag=
+">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html=
+-attribute-value html-external-link" target=3D"_blank" href=3D"http://steff=
+en-knoeller.de/" rel=3D"noreferrer noopener">http://steffen-knoeller.de</a>=
+" <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-a=
+ttribute-value">designer-name</span>"&gt;</span>Steffen Knoeller<span class=
+=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"125"></td><td class=3D"line-content">					<span class=3D"html-tag">&lt=
+;/li&gt;</span>					<span class=3D"html-tag">&lt;li&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"126"></td><td class=3D"line-content">		=
+				<span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href=
+</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_=
+blank" href=3D"https://csszengarden.com/218/" rel=3D"noreferrer noopener">/=
+218/</a>" <span class=3D"html-attribute-name">class</span>=3D"<span class=
+=3D"html-attribute-value">design-name</span>"&gt;</span>Apothecary<span cla=
+ss=3D"html-tag">&lt;/a&gt;</span> by						<span class=3D"html-tag">&lt;a <s=
+pan class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute=
+-value html-external-link" target=3D"_blank" href=3D"http://trentwalton.com=
+/" rel=3D"noreferrer noopener">http://trentwalton.com</a>" <span class=3D"h=
+tml-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">de=
+signer-name</span>"&gt;</span>Trent Walton<span class=3D"html-tag">&lt;/a&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"127"></td><td cla=
+ss=3D"line-content">					<span class=3D"html-tag">&lt;/li&gt;</span>					<s=
+pan class=3D"html-tag">&lt;li&gt;</span></td></tr><tr><td class=3D"line-num=
+ber" value=3D"128"></td><td class=3D"line-content">						<span class=3D"htm=
+l-tag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D=
+"html-attribute-value html-external-link" target=3D"_blank" href=3D"https:/=
+/csszengarden.com/217/" rel=3D"noreferrer noopener">/217/</a>" <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">design-name</span>"&gt;</span>Screen Filler<span class=3D"html-tag">&lt;=
+/a&gt;</span> by						<span class=3D"html-tag">&lt;a <span class=3D"html-at=
+tribute-name">href</span>=3D"<a class=3D"html-attribute-value html-external=
+-link" target=3D"_blank" href=3D"http://elliotjaystocks.com/" rel=3D"norefe=
+rrer noopener">http://elliotjaystocks.com/</a>" <span class=3D"html-attribu=
+te-name">class</span>=3D"<span class=3D"html-attribute-value">designer-name=
+</span>"&gt;</span>Elliot Jay Stocks<span class=3D"html-tag">&lt;/a&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"129"></td><td class=3D"=
+line-content">					<span class=3D"html-tag">&lt;/li&gt;</span>					<span cl=
+ass=3D"html-tag">&lt;li&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"130"></td><td class=3D"line-content">						<span class=3D"html-tag"=
+>&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-=
+attribute-value html-external-link" target=3D"_blank" href=3D"https://cssze=
+ngarden.com/216/" rel=3D"noreferrer noopener">/216/</a>" <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">desi=
+gn-name</span>"&gt;</span>Fountain Kiss<span class=3D"html-tag">&lt;/a&gt;<=
+/span> by						<span class=3D"html-tag">&lt;a <span class=3D"html-attribute=
+-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link" =
+target=3D"_blank" href=3D"http://jeremycarlson.com/" rel=3D"noreferrer noop=
+ener">http://jeremycarlson.com</a>" <span class=3D"html-attribute-name">cla=
+ss</span>=3D"<span class=3D"html-attribute-value">designer-name</span>"&gt;=
+</span>Jeremy Carlson<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><t=
+r><td class=3D"line-number" value=3D"131"></td><td class=3D"line-content">	=
+				<span class=3D"html-tag">&lt;/li&gt;</span>					<span class=3D"html-tag=
+">&lt;li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"132"></=
+td><td class=3D"line-content">						<span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"https://csszengarden.com/215=
+/" rel=3D"noreferrer noopener">/215/</a>" <span class=3D"html-attribute-nam=
+e">class</span>=3D"<span class=3D"html-attribute-value">design-name</span>"=
+&gt;</span>A Robot Named Jimmy<span class=3D"html-tag">&lt;/a&gt;</span> by=
+						<span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">hr=
+ef</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D=
+"_blank" href=3D"http://meltmedia.com/" rel=3D"noreferrer noopener">http://=
+meltmedia.com/</a>" <span class=3D"html-attribute-name">class</span>=3D"<sp=
+an class=3D"html-attribute-value">designer-name</span>"&gt;</span>meltmedia=
+<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"133"></td><td class=3D"line-content">					<span class=3D"ht=
+ml-tag">&lt;/li&gt;</span>					<span class=3D"html-tag">&lt;li&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"134"></td><td class=3D"line-=
+content">						<span class=3D"html-tag">&lt;a <span class=3D"html-attribute=
+-name">href</span>=3D"<a class=3D"html-attribute-value html-external-link" =
+target=3D"_blank" href=3D"https://csszengarden.com/214/" rel=3D"noreferrer =
+noopener">/214/</a>" <span class=3D"html-attribute-name">class</span>=3D"<s=
+pan class=3D"html-attribute-value">design-name</span>"&gt;</span>Verde Mode=
+rna<span class=3D"html-tag">&lt;/a&gt;</span> by						<span class=3D"html-t=
+ag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"ht=
+ml-attribute-value html-external-link" target=3D"_blank" href=3D"http://www=
+.mezzoblue.com/" rel=3D"noreferrer noopener">http://www.mezzoblue.com/</a>"=
+ <span class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-at=
+tribute-value">designer-name</span>"&gt;</span>Dave Shea<span class=3D"html=
+-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"135=
+"></td><td class=3D"line-content">					<span class=3D"html-tag">&lt;/li&gt;=
+</span>					<span class=3D"html-tag">&lt;/ul&gt;</span></td></tr><tr><td cl=
+ass=3D"line-number" value=3D"136"></td><td class=3D"line-content">				<span=
+ class=3D"html-tag">&lt;/nav&gt;</span></td></tr><tr><td class=3D"line-numb=
+er" value=3D"137"></td><td class=3D"line-content">			<span class=3D"html-ta=
+g">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"138"=
+></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"line-number=
+" value=3D"139"></td><td class=3D"line-content">			<span class=3D"html-tag"=
+>&lt;div <span class=3D"html-attribute-name">class</span>=3D"<span class=3D=
+"html-attribute-value">design-archives</span>" <span class=3D"html-attribut=
+e-name">id</span>=3D"<span class=3D"html-attribute-value">design-archives</=
+span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"140"></td=
+><td class=3D"line-content">				<span class=3D"html-tag">&lt;h3 <span class=
+=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribute-valu=
+e">archives</span>"&gt;</span>Archives:<span class=3D"html-tag">&lt;/h3&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"141"></td><td class=
+=3D"line-content">				<span class=3D"html-tag">&lt;nav <span class=3D"html-=
+attribute-name">role</span>=3D"<span class=3D"html-attribute-value">navigat=
+ion</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"142"=
+></td><td class=3D"line-content">					<span class=3D"html-tag">&lt;ul&gt;</=
+span></td></tr><tr><td class=3D"line-number" value=3D"143"></td><td class=
+=3D"line-content">						<span class=3D"html-tag">&lt;li <span class=3D"html=
+-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">next<=
+/span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"144"></t=
+d><td class=3D"line-content">							<span class=3D"html-tag">&lt;a <span cl=
+ass=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-value=
+ html-external-link" target=3D"_blank" href=3D"https://csszengarden.com/214=
+/page1" rel=3D"noreferrer noopener">/214/page1</a>"&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"145"></td><td class=3D"line-content">		=
+						Next Designs <span class=3D"html-tag">&lt;span <span class=3D"html-at=
+tribute-name">class</span>=3D"<span class=3D"html-attribute-value">indicato=
+r</span>"&gt;</span>&amp;rsaquo;<span class=3D"html-tag">&lt;/span&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"146"></td><td class=3D"l=
+ine-content">							<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"147"></td><td class=3D"line-content">		=
+				<span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"148"></td><td class=3D"line-content">						<span class=
+=3D"html-tag">&lt;li <span class=3D"html-attribute-name">class</span>=3D"<s=
+pan class=3D"html-attribute-value">viewall</span>"&gt;</span></td></tr><tr>=
+<td class=3D"line-number" value=3D"149"></td><td class=3D"line-content">			=
+				<span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">href=
+</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D"_=
+blank" href=3D"https://csszengarden.com/pages/alldesigns/" rel=3D"noreferre=
+r noopener">/pages/alldesigns/</a>" <span class=3D"html-attribute-name">tit=
+le</span>=3D"<span class=3D"html-attribute-value">View every submission to =
+the Zen Garden.</span>"&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"150"></td><td class=3D"line-content">								View All Designs						=
+	<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"151"></td><td class=3D"line-content">						<span class=3D"=
+html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=
+=3D"152"></td><td class=3D"line-content">					<span class=3D"html-tag">&lt;=
+/ul&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"153"></td><t=
+d class=3D"line-content">				<span class=3D"html-tag">&lt;/nav&gt;</span></=
+td></tr><tr><td class=3D"line-number" value=3D"154"></td><td class=3D"line-=
+content">			<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"155"></td><td class=3D"line-content"><br></td=
+></tr><tr><td class=3D"line-number" value=3D"156"></td><td class=3D"line-co=
+ntent">			<span class=3D"html-tag">&lt;div <span class=3D"html-attribute-na=
+me">class</span>=3D"<span class=3D"html-attribute-value">zen-resources</spa=
+n>" <span class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-at=
+tribute-value">zen-resources</span>"&gt;</span></td></tr><tr><td class=3D"l=
+ine-number" value=3D"157"></td><td class=3D"line-content">				<span class=
+=3D"html-tag">&lt;h3 <span class=3D"html-attribute-name">class</span>=3D"<s=
+pan class=3D"html-attribute-value">resources</span>"&gt;</span>Resources:<s=
+pan class=3D"html-tag">&lt;/h3&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"158"></td><td class=3D"line-content">				<span class=3D"html=
+-tag">&lt;ul&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"159=
+"></td><td class=3D"line-content">					<span class=3D"html-tag">&lt;li <spa=
+n class=3D"html-attribute-name">class</span>=3D"<span class=3D"html-attribu=
+te-value">view-css</span>"&gt;</span></td></tr><tr><td class=3D"line-number=
+" value=3D"160"></td><td class=3D"line-content">						<span class=3D"html-t=
+ag">&lt;a <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"ht=
+ml-attribute-value html-external-link" target=3D"_blank" href=3D"https://cs=
+szengarden.com/214/214.css" rel=3D"noreferrer noopener">/214/214.css</a>" <=
+span class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attr=
+ibute-value">View the source CSS file of the currently-viewed design.</span=
+>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"161"></td><td=
+ class=3D"line-content">							View This Design&amp;#8217;s <span class=3D"=
+html-tag">&lt;abbr <span class=3D"html-attribute-name">title</span>=3D"<spa=
+n class=3D"html-attribute-value">Cascading Style Sheets</span>"&gt;</span>C=
+SS<span class=3D"html-tag">&lt;/abbr&gt;</span>						<span class=3D"html-ta=
+g">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"162"><=
+/td><td class=3D"line-content">					<span class=3D"html-tag">&lt;/li&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"163"></td><td class=3D=
+"line-content">					<span class=3D"html-tag">&lt;li <span class=3D"html-att=
+ribute-name">class</span>=3D"<span class=3D"html-attribute-value">css-resou=
+rces</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"164=
+"></td><td class=3D"line-content">						<span class=3D"html-tag">&lt;a <spa=
+n class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute-v=
+alue html-external-link" target=3D"_blank" href=3D"https://csszengarden.com=
+/pages/resources/" rel=3D"noreferrer noopener">/pages/resources/</a>" <span=
+ class=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribut=
+e-value">Links to great sites with information on using CSS.</span>"&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"165"></td><td class=3D=
+"line-content">							<span class=3D"html-tag">&lt;abbr <span class=3D"html=
+-attribute-name">title</span>=3D"<span class=3D"html-attribute-value">Casca=
+ding Style Sheets</span>"&gt;</span>CSS<span class=3D"html-tag">&lt;/abbr&g=
+t;</span> Resources						<span class=3D"html-tag">&lt;/a&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"166"></td><td class=3D"line-conten=
+t">					<span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"167"></td><td class=3D"line-content">					<span c=
+lass=3D"html-tag">&lt;li <span class=3D"html-attribute-name">class</span>=
+=3D"<span class=3D"html-attribute-value">zen-faq</span>"&gt;</span></td></t=
+r><tr><td class=3D"line-number" value=3D"168"></td><td class=3D"line-conten=
+t">						<span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name"=
+>href</span>=3D"<a class=3D"html-attribute-value html-external-link" target=
+=3D"_blank" href=3D"https://csszengarden.com/pages/faq/" rel=3D"noreferrer =
+noopener">/pages/faq/</a>" <span class=3D"html-attribute-name">title</span>=
+=3D"<span class=3D"html-attribute-value">A list of Frequently Asked Questio=
+ns about the Zen Garden.</span>"&gt;</span></td></tr><tr><td class=3D"line-=
+number" value=3D"169"></td><td class=3D"line-content">							<span class=3D=
+"html-tag">&lt;abbr <span class=3D"html-attribute-name">title</span>=3D"<sp=
+an class=3D"html-attribute-value">Frequently Asked Questions</span>"&gt;</s=
+pan>FAQ<span class=3D"html-tag">&lt;/abbr&gt;</span>						<span class=3D"ht=
+ml-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"1=
+70"></td><td class=3D"line-content">					<span class=3D"html-tag">&lt;/li&g=
+t;</span></td></tr><tr><td class=3D"line-number" value=3D"171"></td><td cla=
+ss=3D"line-content">					<span class=3D"html-tag">&lt;li <span class=3D"htm=
+l-attribute-name">class</span>=3D"<span class=3D"html-attribute-value">zen-=
+submit</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"1=
+72"></td><td class=3D"line-content">						<span class=3D"html-tag">&lt;a <s=
+pan class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute=
+-value html-external-link" target=3D"_blank" href=3D"https://csszengarden.c=
+om/pages/submit/" rel=3D"noreferrer noopener">/pages/submit/</a>" <span cla=
+ss=3D"html-attribute-name">title</span>=3D"<span class=3D"html-attribute-va=
+lue">Send in your own CSS file.</span>"&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"173"></td><td class=3D"line-content">							Submi=
+t a Design						<span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td=
+ class=3D"line-number" value=3D"174"></td><td class=3D"line-content">					<=
+span class=3D"html-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-n=
+umber" value=3D"175"></td><td class=3D"line-content">					<span class=3D"ht=
+ml-tag">&lt;li <span class=3D"html-attribute-name">class</span>=3D"<span cl=
+ass=3D"html-attribute-value">zen-translations</span>"&gt;</span></td></tr><=
+tr><td class=3D"line-number" value=3D"176"></td><td class=3D"line-content">=
+						<span class=3D"html-tag">&lt;a <span class=3D"html-attribute-name">hr=
+ef</span>=3D"<a class=3D"html-attribute-value html-external-link" target=3D=
+"_blank" href=3D"https://csszengarden.com/pages/translations/" rel=3D"noref=
+errer noopener">/pages/translations/</a>" <span class=3D"html-attribute-nam=
+e">title</span>=3D"<span class=3D"html-attribute-value">View translated ver=
+sions of this page.</span>"&gt;</span></td></tr><tr><td class=3D"line-numbe=
+r" value=3D"177"></td><td class=3D"line-content">							Translations						<=
+span class=3D"html-tag">&lt;/a&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"178"></td><td class=3D"line-content">					<span class=3D"htm=
+l-tag">&lt;/li&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"1=
+79"></td><td class=3D"line-content">				<span class=3D"html-tag">&lt;/ul&gt=
+;</span></td></tr><tr><td class=3D"line-number" value=3D"180"></td><td clas=
+s=3D"line-content">			<span class=3D"html-tag">&lt;/div&gt;</span></td></tr=
+><tr><td class=3D"line-number" value=3D"181"></td><td class=3D"line-content=
+">		<span class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"=
+line-number" value=3D"182"></td><td class=3D"line-content">	<span class=3D"=
+html-tag">&lt;/aside&gt;</span></td></tr><tr><td class=3D"line-number" valu=
+e=3D"183"></td><td class=3D"line-content"><br></td></tr><tr><td class=3D"li=
+ne-number" value=3D"184"></td><td class=3D"line-content"><br></td></tr><tr>=
+<td class=3D"line-number" value=3D"185"></td><td class=3D"line-content"><sp=
+an class=3D"html-tag">&lt;/div&gt;</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"186"></td><td class=3D"line-content"><br></td></tr><tr><td c=
+lass=3D"line-number" value=3D"187"></td><td class=3D"line-content"><span cl=
+ass=3D"html-comment">&lt;!--</span></td></tr><tr><td class=3D"line-number" =
+value=3D"188"></td><td class=3D"line-content"><span class=3D"html-comment">=
+<br></span></td></tr><tr><td class=3D"line-number" value=3D"189"></td><td c=
+lass=3D"line-content"><span class=3D"html-comment">	These superfluous divs/=
+spans were originally provided as catch-alls to add extra imagery.</span></=
+td></tr><tr><td class=3D"line-number" value=3D"190"></td><td class=3D"line-=
+content"><span class=3D"html-comment">	These days we have full ::before and=
+ ::after support, favour using those instead.</span></td></tr><tr><td class=
+=3D"line-number" value=3D"191"></td><td class=3D"line-content"><span class=
+=3D"html-comment">	These only remain for historical design compatibility. T=
+hey might go away one day.</span></td></tr><tr><td class=3D"line-number" va=
+lue=3D"192"></td><td class=3D"line-content"><span class=3D"html-comment">		=
+</span></td></tr><tr><td class=3D"line-number" value=3D"193"></td><td class=
+=3D"line-content"><span class=3D"html-comment">--&gt;</span></td></tr><tr><=
+td class=3D"line-number" value=3D"194"></td><td class=3D"line-content"><spa=
+n class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</spa=
+n>=3D"<span class=3D"html-attribute-value">extra1</span>" <span class=3D"ht=
+ml-attribute-name">role</span>=3D"<span class=3D"html-attribute-value">pres=
+entation</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span><spa=
+n class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</spa=
+n>=3D"<span class=3D"html-attribute-value">extra2</span>" <span class=3D"ht=
+ml-attribute-name">role</span>=3D"<span class=3D"html-attribute-value">pres=
+entation</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span><spa=
+n class=3D"html-tag">&lt;div <span class=3D"html-attribute-name">class</spa=
+n>=3D"<span class=3D"html-attribute-value">extra3</span>" <span class=3D"ht=
+ml-attribute-name">role</span>=3D"<span class=3D"html-attribute-value">pres=
+entation</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span></td=
+></tr><tr><td class=3D"line-number" value=3D"195"></td><td class=3D"line-co=
+ntent"><span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name"=
+>class</span>=3D"<span class=3D"html-attribute-value">extra4</span>" <span =
+class=3D"html-attribute-name">role</span>=3D"<span class=3D"html-attribute-=
+value">presentation</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;=
+</span><span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name"=
+>class</span>=3D"<span class=3D"html-attribute-value">extra5</span>" <span =
+class=3D"html-attribute-name">role</span>=3D"<span class=3D"html-attribute-=
+value">presentation</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;=
+</span><span class=3D"html-tag">&lt;div <span class=3D"html-attribute-name"=
+>class</span>=3D"<span class=3D"html-attribute-value">extra6</span>" <span =
+class=3D"html-attribute-name">role</span>=3D"<span class=3D"html-attribute-=
+value">presentation</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;=
+</span></td></tr><tr><td class=3D"line-number" value=3D"196"></td><td class=
+=3D"line-content"><br></td></tr><tr><td class=3D"line-number" value=3D"197"=
+></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/body&gt;</sp=
+an></td></tr><tr><td class=3D"line-number" value=3D"198"></td><td class=3D"=
+line-content"><span class=3D"html-tag">&lt;/html&gt;</span><span class=3D"h=
+tml-end-of-file"></span></td></tr></tbody></table></body></html>
+------MultipartBoundary--CLMEQX3pWwplaqmQQ9TAC9m8KPCStqIhBQgyqpVhiI------
