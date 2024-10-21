@@ -472,7 +472,7 @@ Main
   font-size: 150%;
 }
 .main .benefits {
-  background: rgba(0, 188, 217, 0.8) url(logoB.jpg) no-repeat left top;
+  background: rgba(0, 188, 217, 0.8) url(icon-circles.svg) no-repeat left top;
   background-size: 100%;
   position: absolute;
   right: 20%;
