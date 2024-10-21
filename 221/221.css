@@ -190,7 +190,7 @@ Intro
   color: #ffffff;
   width: 60%;
   float: left;
-  background: #c879b2 url(icons-3-pack.svg);
+  background: #c879b2 url(logoB.jpg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 101%;
@@ -472,7 +472,7 @@ Main
   font-size: 150%;
 }
 .main .benefits {
-  background: rgba(0, 188, 217, 0.8) url(icon-circles.svg) no-repeat left top;
+  background: rgba(0, 188, 217, 0.8) url(logoB.jpg) no-repeat left top;
   background-size: 100%;
   position: absolute;
   right: 20%;
