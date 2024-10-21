@@ -152,7 +152,7 @@ Intro
 }
 .intro header h2 {
   position: relative;
-  background: #0d2c40 url(logoB.jpg) no-repeat left bottom;
+  background: #0d2c40 url(icon-star.svg) no-repeat left bottom;
   background-size: 101%;
   float: right;
   color: #ffffff;
