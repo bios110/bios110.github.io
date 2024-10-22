@@ -152,7 +152,7 @@ Intro
 }
 .intro header h2 {
   position: relative;
-  background: #0d2c40 url(logoB.jpg) no-repeat left bottom;
+  background: #0d2c40 url(logoA.jpg) no-repeat left bottom;
   background-size: 101%;
   float: right;
   color: #ffffff;
@@ -168,7 +168,7 @@ Intro
 }
   @media (max-width: 70em) {
     .intro header h2 {
-      background: #0d2c40 url(logoB.jpg) no-repeat left bottom;
+      background: #0d2c40 url(logoA.jpg) no-repeat left bottom;
       background-size: 49%;
       width: 66.666%;
       height: 11em;
@@ -177,7 +177,7 @@ Intro
   }
   @media (max-width: 53em) {
     .intro header h2 {
-      background: #0d2c40 url(logoB.jpg) no-repeat left bottom;
+      background: #0d2c40 url(logoA.jpg) no-repeat left bottom;
       background-size: 49%;
       font-size: 200%;
       width: 66.666%;
