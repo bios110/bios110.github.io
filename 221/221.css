@@ -904,7 +904,7 @@ Sidebar
   box-sizing: border-box;
   text-align: left;
 }
-.sidebar .zen-resources {
+.sidebar .bio-resources {
   background: #31c5da url(logoB.jpg) no-repeat left bottom;
   background-size: 100%;
   position: relative;
@@ -918,13 +918,13 @@ Sidebar
   box-sizing: border-box;
 }
   @media (max-width: 70em) {
-    .sidebar .zen-resources {
+    .sidebar .bio-resources {
       width: 25%;
       margin: 0 25% 0 50%;
     }
   }
   @media (max-width: 53em) {
-    .sidebar .zen-resources {
+    .sidebar .bio-resources {
       background: #31c5da url(logoB.jpg) no-repeat center bottom;
       background-size: 35%;
       width: 100%;
@@ -932,7 +932,7 @@ Sidebar
       padding: 2em 1em 10em 1em;
     }
   }
-.sidebar .zen-resources h3 {
+.sidebar .bio-resources h3 {
   position: absolute;
   color: #ffffff;
   z-index: 3;
@@ -952,7 +952,7 @@ Sidebar
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
   @media (max-width: 53em) {
-    .sidebar .zen-resources h3 {
+    .sidebar .bio-resources h3 {
       top: 0;
       left: 0;
       position: relative;
@@ -963,11 +963,11 @@ Sidebar
       filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
     }
   }
-.sidebar .zen-resources ul {
+.sidebar .bio-resources ul {
   padding: 0;
   overflow: hidden;
 }
-.sidebar .zen-resources ul li {
+.sidebar .bio-resources ul li {
   display: inline-block;
   list-style: none;
   width: 100%;
