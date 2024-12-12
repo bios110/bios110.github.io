@@ -404,11 +404,11 @@ footer {
     box-shadow: none;
 }
 
-.zen-validate-html,
-.zen-validate-css,
-.zen-license,
-.zen-github,
-.zen-accessibility {
+.bio-validate-html,
+.bio-validate-css,
+.bio-license,
+.bio-github,
+.bio-accessibility {
     position: relative;
     overflow: hidden;
     padding: 0;
@@ -422,23 +422,23 @@ footer {
     text-indent: 100%;
 }
 
-.zen-validate-html {
+.bio-validate-html {
     background-position: 0 0;
 }
 
-.zen-validate-css {
+.bio-validate-css {
     background-position: 0 -75px;
 }
 
-.zen-github {
+.bio-github {
     background-position: 0 -150px;
 }
 
-.zen-accessibility {
+.bio-accessibility {
     background-position: 0 -225px;
 }
 
-.zen-license {
+.bio-license {
     background-position: 0 -300px;
 }
 
@@ -669,7 +669,7 @@ footer a::after {
         }
 
 .design-archives,
-.zen-resources {
+.bio-resources {
     position: absolute;
     top: 55px;
     left: 458px;
@@ -677,13 +677,13 @@ footer a::after {
     width: 204px;
 }
 
-.zen-resources {
+.bio-resources {
     top: 205px;
     background-position: right bottom;
 }
 
     .design-archives ul li,
-    .zen-resources ul li {
+    .bio-resources ul li {
         position: relative;
         padding: 0;
         min-width: 200px;
@@ -691,17 +691,17 @@ footer a::after {
     }
 
     .design-archives h3,
-    .zen-resources h3 {
+    .bio-resources h3 {
         text-align: center;
     }
 
-html:not([lang="zh-tw"]) .zen-resources .view-css a {
+html:not([lang="zh-tw"]) .bio-resources .view-css a {
     white-space: normal;
     line-height: 25px;
 }
 
 .design-archives a,
-.zen-resources a {
+.bio-resources a {
     line-height: 50px;
 }
 
