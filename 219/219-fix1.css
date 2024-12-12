@@ -97,17 +97,17 @@
         height: 75px;
     }
 
-    .zen-validate-html,
-    .zen-validate-css,
-    .zen-license,
-    .zen-github,
-    .zen-accessibility {
+    .bio-validate-html,
+    .bio-validate-css,
+    .bio-license,
+    .bio-github,
+    .bio-accessibility {
         position: static;
         float: left;
         width: 65px;
     }
 
-    .zen-github {
+    .bio-github {
         width: 55px;
     }
 
