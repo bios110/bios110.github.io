@@ -72,11 +72,11 @@
         height: 450px;
     }
 
-    .zen-validate-html,
-    .zen-validate-css,
-    .zen-license,
-    .zen-github,
-    .zen-accessibility {
+    .bio-validate-html,
+    .bio-validate-css,
+    .bio-license,
+    .bio-github,
+    .bio-accessibility {
         position: relative;
         float: none;
         width: 75px;
