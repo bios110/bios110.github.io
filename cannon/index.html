@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>3D Simulation</title>
+
+   
+
+    <!-- Basic styling -->
+
+    <style>
+
+        body { margin: 0; overflow: hidden; }
+
+        canvas { display: block; }
+
+        #info {
+
+            position: absolute;
+
+            top: 10px;
+
+            width: 100%;
+
+            text-align: center;
+
+            color: white;
+
+            font-family: Arial, sans-serif;
+
+        }
+
+    </style>
+
+   
+
+    <!-- Import map shim for browsers without native support -->
+
+    <script async src="https://unpkg.com/es-module-shims@1.8.0/dist/es-module-shims.js"></script>
+
+   
+
+    <!-- Define all external dependencies in the import map -->
+
+    <script type="importmap">
+
+        {
+
+            "imports": {
+
+                "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+
+                "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/",
+
+                "lodash": "https://cdn.jsdelivr.net/npm/lodash@4.17.21/+esm",
+
+                "gsap": "https://cdn.jsdelivr.net/npm/gsap@3.12.4/+esm"
+
+            }
+
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+    <div id="info">My 3D Simulation</div>
+
+   
+
+    <script type="module">
+
+        // Import dependencies
+
+        import * as THREE from 'three';
+
+        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+        import _ from 'lodash';
+
+        import { gsap } from 'gsap';
+
+       
+
+        // Your simulation code goes here
+
+
+
+// In your import map:
+
+"cannon-es": "https://cdn.jsdelivr.net/npm/cannon-es@0.20.0/+esm",
+
+
+// In your module script:
+
+import * as CANNON from 'cannon-es';
+
+
+// Initialize physics world
+
+const world = new CANNON.World({
+
+    gravity: new CANNON.Vec3(0, -9.82, 0)
+
+});
+
+
+// Create a physics body for the cube
+
+const cubeBody = new CANNON.Body({
+
+    mass: 1,
+
+    shape: new CANNON.Box(new CANNON.Vec3(0.5, 0.5, 0.5))
+
+});
+
+cubeBody.position.set(0, 5, 0);
+
+world.addBody(cubeBody);
+
+
+// In your animation loop:
+
+function animate() {
+
+    requestAnimationFrame(animate);
+
+   
+
+    // Step the physics world
+
+    world.step(1/60);
+
+   
+
+    // Update the mesh position to match the physics body
+
+    cube.position.copy(cubeBody.position);
+
+    cube.quaternion.copy(cubeBody.quaternion);
+
+   
+
+    controls.update();
+
+    renderer.render(scene, camera);
+
+}
+
+
+
+
+
+
+
+
+
+       
+
+        // 1. Create scene, camera, and renderer
+
+        const scene = new THREE.Scene();
+
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+
+       
+
+        renderer.setSize(window.innerWidth, window.innerHeight);
+
+        renderer.setPixelRatio(window.devicePixelRatio);
+
+        document.body.appendChild(renderer.domElement);
+
+       
+
+        // 2. Add camera controls
+
+        const controls = new OrbitControls(camera, renderer.domElement);
+
+        camera.position.z = 5;
+
+        controls.update();
+
+       
+
+        // 3. Add lights
+
+        const ambientLight = new THREE.AmbientLight(0x404040);
+
+        scene.add(ambientLight);
+
+       
+
+        const directionalLight = new THREE.DirectionalLight(0xffffff, 1);
+
+        directionalLight.position.set(1, 1, 1);
+
+        scene.add(directionalLight);
+
+       
+
+        // 4. Add objects to the scene
+
+        const geometry = new THREE.BoxGeometry();
+
+        const material = new THREE.MeshStandardMaterial({ color: 0x00ff00 });
+
+        const cube = new THREE.Mesh(geometry, material);
+
+        scene.add(cube);
+
+       
+
+        // 5. Animation loop
+
+        function animate() {
+
+            requestAnimationFrame(animate);
+
+           
+
+            // Update your simulation here
+
+            cube.rotation.x += 0.01;
+
+            cube.rotation.y += 0.01;
+
+           
+
+            controls.update();
+
+            renderer.render(scene, camera);
+
+        }
+
+       
+
+        // 6. Handle window resize
+
+        window.addEventListener('resize', () => {
+
+            camera.aspect = window.innerWidth / window.innerHeight;
+
+            camera.updateProjectionMatrix();
+
+            renderer.setSize(window.innerWidth, window.innerHeight);
+
+        });
+
+       
+
+        // 7. Start animation loop
+
+        animate();
+
+    </script>
+
+</body>
+
+</html>
+
