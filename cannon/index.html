@@ -1,65 +1,111 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Glass Shattering Simulation</title>
-    <script type="importmap">
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Florida International University - Digital Communications" />
+  <meta name="description" content="The FIU Department of Physics is dedicated to excellence in research, teaching and service across a range of disciplines." />
+
+  <title>Department of Physics | FIU College of Arts, Sciences &amp; Education</title>
+
+  <!-- Open Graph Meta -->
+  <meta property="og:title" content="Department of Physics" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://case.fiu.edu/physics/_assets/plasma-ball-banner-3.jpg" />
+  <meta property="og:url" content="https://case.fiu.edu/physics/" />
+  <meta property="og:description" content="The FIU Department of Physics is dedicated to excellence in research, teaching and service across a range of disciplines." />
+
+  <!-- Twitter Meta -->
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://case.fiu.edu/physics/" />
+
+  <!-- Preconnects & Styles -->
+  <link rel="preconnect" href="https://use.typekit.net" crossorigin>
+  <link rel="preconnect" href="https://digicdn.fiu.edu" crossorigin>
+  <link rel="stylesheet" href="https://digicdn.fiu.edu/core/_assets/css/fiu-custom-foundation.css" />
+  <link rel="stylesheet" href="https://digicdn.fiu.edu/v2/assets/css/styles.css" />
+  <link rel="stylesheet" href="https://digicdn.fiu.edu/core/_assets/css/styles.css?v=1.37" />
+  <link rel="stylesheet" href="https://digicdn.fiu.edu/fonts/fa/css/all.min.css" />
+  <link rel="stylesheet" href="https://digicdn.fiu.edu/fonts/fa/css/v4-shims.min.css" />
+  <link rel="stylesheet" href="https://use.typekit.net/fpx6thr.css" />
+  <link rel="stylesheet" href="https://digicdn.fiu.edu/fonts/furore.css" />
+  <link rel="stylesheet" href="https://digicdn.fiu.edu/fonts/barlow.css" />
+  <link rel="stylesheet" href="../_assets/styles.css?v=06052023" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="https://digicdn.fiu.edu/core/_assets/favicon/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://digicdn.fiu.edu/core/_assets/favicon/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://digicdn.fiu.edu/core/_assets/favicon/favicon-16x16.png" />
+  <link rel="manifest" href="https://digicdn.fiu.edu/core/_assets/favicon/site.webmanifest" />
+  <link rel="mask-icon" href="https://digicdn.fiu.edu/core/_assets/favicon/safari-pinned-tab.svg" color="#112d54" />
+  <link rel="shortcut icon" href="https://digicdn.fiu.edu/core/_assets/favicon/favicon.ico" />
+  <meta name="msapplication-TileColor" content="#e8cd7d" />
+  <meta name="theme-color" content="#ffffff" />
+  <meta name="msapplication-config" content="https://digicdn.fiu.edu/core/_assets/favicon/browserconfig.xml" />
+
+  <!-- JSON-LD Schema -->
+  <script id="page-schema" type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
         {
-            "imports": {
-                "p5": "https://cdn.jsdelivr.net/npm/p5@1.4.1/dist/p5.js"
-            }
+          "@type": "WebSite",
+          "@id": "https://case.fiu.edu",
+          "url": "https://case.fiu.edu",
+          "name": "College of Arts, Sciences & Education",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://case.fiu.edu/results.html?q={query}",
+            "query-input": "required name=query"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://case.fiu.edu/physics/",
+          "url": "https://case.fiu.edu/physics/",
+          "inLanguage": "en-US",
+          "name": "Department of Physics",
+          "isPartOf": {
+            "@id": "https://case.fiu.edu"
+          },
+          "description": "The FIU Department of Physics is dedicated to excellence in research, teaching and service across a range of disciplines.",
+          "datePublished": "2025-03-27T16:07Z",
+          "dateModified": "2021-05-17T17:51Z"
         }
-    </script>
+      ]
+    }
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>dataLayer = [];</script>
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-5GFMR34"></script>
 </head>
-<body>
-    <script type="module">
-        import p5 from 'p5';
 
-        let glass = [];
-        let freq = 10; // Resonant frequency
-        let amp = 0.1; // Amplitude of the vibration
-        let time = 0;
+<body class="preload">
+  <!-- Header, Content, and Footer go here -->
 
-        const sketch = (p) => {
-            p.setup = () => {
-                p.createCanvas(600, 600);
-                p.background(220);
-                for (let i = 0; i < 100; i++) {
-                    glass.push({
-                        x: p.random(p.width),
-                        y: p.random(p.height),
-                        vx: 0,
-                        vy: 0,
-                        r: p.random(2, 5)
-                    });
-                }
-            };
+  <!-- Scripts -->
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+  <script src="https://digicdn.fiu.edu/core/_assets/js/core.js?v1.17.0"></script>
+  <script src="../script-test.js"></script>
 
-            p.draw = () => {
-                p.background(220);
-                for (let i = 0; i < glass.length; i++) {
-                    let g = glass[i];
-                    g.vx += amp * p.sin(freq * time + g.x * 0.01);
-                    g.vy += amp * p.sin(freq * time + g.y * 0.01);
-                    g.x += g.vx;
-                    g.y += g.vy;
-                    g.vx *= 0.99;
-                    g.vy *= 0.99;
-                    p.fill(0, 0, 255);
-                    p.ellipse(g.x, g.y, g.r * 2);
-                    if (g.x < 0 || g.x > p.width || g.y < 0 || g.y > p.height) {
-                        g.x = p.random(p.width);
-                        g.y = p.random(p.height);
-                        g.vx = 0;
-                        g.vy = 0;
-                    }
-                }
-                time += 0.01;
-            };
-        };
+  <!-- AppArmor Script -->
+  <script>
+    let apparmordiv = document.createElement("div");
+    apparmordiv.id = "AppArmorAlertID_35";
+    document.body.prepend(apparmordiv);
+    window.onload = function () {
+      var script = document.createElement("script");
+      script.src = "https://fiu.apparmor.com/Notifications/Feeds/Javascript/?AlertID=35";
+      script.defer = true;
+      document.body.appendChild(script);
+    };
+  </script>
 
-        new p5(sketch);
-    </script>
+  <!-- Cloudflare Beacon -->
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" integrity="sha512-ZpsOmlRQV6..." data-cf-beacon='{"rayId":"92724e18fede6741","token":"40540ba67c8740878061d575eb94a49e"}' crossorigin="anonymous"></script>
 </body>
 </html>
